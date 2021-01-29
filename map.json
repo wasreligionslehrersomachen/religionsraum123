@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/24\/hallo-welt\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Kartei-10-Sadduzaeer.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-1\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Station-10-Pharisaeer-und-Sadduzaeer-formular.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-2\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Tora.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-3\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/tora1.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-4\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/27\/juedische-gruppierungen-zur-zeit-jesu\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-5\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Tora-Jesus-und-andere-Gruppen-formular-1.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-6\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/2021\/01\/27\/sabbatgebote\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-7\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/Regeln-fuer-den-Sabbat.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-8\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -273,6 +273,12 @@
          "id":24,
          "name":"Station09",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-9\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -285,6 +291,12 @@
          "id":25,
          "name":"Station10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-10\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -297,6 +309,12 @@
          "id":26,
          "name":"Station11",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-11\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -309,6 +327,12 @@
          "id":27,
          "name":"Station12",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-12\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -321,6 +345,12 @@
          "id":28,
          "name":"Station13",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-13\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -333,6 +363,12 @@
          "id":29,
          "name":"Station14",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-14\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -349,7 +385,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":""
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-15\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -363,6 +399,12 @@
          "id":31,
          "name":"Station16",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-16\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -379,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen\/wp-content\/uploads\/sites\/669\/2021\/01\/was-am-Sabbat-erlaubt-ist.pdf"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-17\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,6 +435,12 @@
          "id":33,
          "name":"Station18",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-18\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -405,6 +453,12 @@
          "id":34,
          "name":"Station19",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-19\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -417,6 +471,12 @@
          "id":35,
          "name":"Station20",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-20\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -429,6 +489,12 @@
          "id":36,
          "name":"Station21",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-21\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -441,6 +507,12 @@
          "id":37,
          "name":"Station22",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-22\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -453,6 +525,12 @@
          "id":38,
          "name":"Station23",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-23\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -465,6 +543,12 @@
          "id":39,
          "name":"Station24",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"file",
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasrelilehrersomachen123\/2021\/01\/29\/station-24\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
