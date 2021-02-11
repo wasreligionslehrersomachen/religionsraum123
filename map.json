@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"file",
                  "value":"audio\/pfeiltasten.mp3"
                 }],
